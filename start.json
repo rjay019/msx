@@ -1,5 +1,6 @@
 {
-    "name": "My Example Content",
+    "name": "HUB",
     "version": "1.0.0",
-    "parameter": "menu:https://rjay-castaneda.outsystemscloud.com/MediaStation_CS/rest/MSX/Start"
+    "parameter": "menu:https://rjay-castaneda.outsystemscloud.com/MediaStation_CS/rest/MSX/Start",
+    "welcome":"none"
 }
