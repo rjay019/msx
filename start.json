@@ -1,5 +1,5 @@
 {
-    "name": "My Example Content",
+    "name": "RJAY's HUB",
     "version": "1.0.0",
-    "parameter": "menu:https://rjay-castaneda.outsystemscloud.com/MediaStation_CS/rest/MSX/Start"
+    "parameter": "redirect:https://rjay-castaneda.outsystemscloud.com/MediaStation_CS/rest/MSX/Start"
 }
